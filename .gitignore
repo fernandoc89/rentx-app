@@ -1,0 +1,9 @@
+node_modules
+.vscode
+tmp/*
+coverage
+.env
+dados s3 amazon.txt
+!tmp/.gitkeep
+dist
+ormconfig.json
