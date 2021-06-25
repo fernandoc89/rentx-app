@@ -12,11 +12,13 @@
   },
   "dependencies": {
     "-": "^0.0.1",
+    "@types/cors": "^2.8.10",
     "@types/jest": "^26.0.23",
     "D": "^1.0.0",
     "aws-sdk": "^2.928.0",
     "bcryptjs": "^2.4.3",
     "class-transformer": "^0.4.0",
+    "cors": "^2.8.5",
     "csv-parse": "^4.15.4",
     "dayjs": "^1.10.5",
     "dotenv": "^10.0.0",
