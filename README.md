@@ -1,3 +1,63 @@
+## RENTX
+
+## Descrição
+
+<p>
+   <em>
+     API de locação de veículos.
+
+     Possui cadastro de usuários, veículos e locação.
+  </em>
+</p>
+<br>
+
+<br>  
+  
+## Stacks
+<p>
+<a>
+  <img alt="JavaScript" width="35px" height="64px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg">
+</a>
+<a>
+  <img alt="TypeScript" width="35px" height="64px" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg">
+</a>
+<a>
+  <img alt="NodeJs" width="35px" height="64px" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg">
+</a>
+</p>
+
+<br>
+
+## Bibliotecas
+
+  - cors
+  - jest
+  - aws-sdk
+  - bcryptjs
+  - class-transformer
+  - csv-parse
+  - dayjs
+  - dotenv
+  - express
+  - express-async-errors
+  - handlebars
+  - jest
+  - jsonwebtoken
+  - mime
+  - multer
+  - nodemailer
+  - pg
+  - reflect-metadata
+  - supertest
+  - swagger-ui-express
+  - tsyringe
+  - typeorm
+  - uuid
+
+<br>
+
+## Regras de negócio
+
 # Cadastro de carro
 
 **RF**
